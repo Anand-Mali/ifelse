@@ -10,9 +10,11 @@ public class anand {
 			
 		System.out.println("Anand is Adult");
 		
-		}else {
+		}else if(age==19) {
 			
-			System.out.println("Anand is not Adult");
+			System.out.println("Anand is running Adult");
+		}else {
+			System.out.println("Aanad is not adult");
 		}
 		
 		
